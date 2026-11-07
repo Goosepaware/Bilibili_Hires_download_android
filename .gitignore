@@ -1,0 +1,25 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea
+.DS_Store
+/build
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 签名文件与密码（不要提交）
+keystore/
+keystore.properties
+*.jks
+*.keystore
+
+# 本地测试产物
+_*.json
+_*.log
+_*.png
+ui*.png
+*.apk
